@@ -5,5 +5,5 @@ Simple Cyptography implemented in HTML and Javascript. The Repository can be dow
 
 If you have `git` installed on your computer you can clone the repository with
 ```shell
-  git clone 
+  git clone https://github.com/niebert/simple_krypto4learning.git
 ```
